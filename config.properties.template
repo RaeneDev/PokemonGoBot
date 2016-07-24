@@ -12,6 +12,7 @@ longitude=
 
 # desired chance to catch Pokemon with 1 throw
 desired_catch_probability=0.8
+preferred_ball=ITEM_POKE_BALL
 
 ## Walking
 # Meters per second
